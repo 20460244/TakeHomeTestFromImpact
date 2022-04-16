@@ -14,9 +14,7 @@ public class NumberRangeSummarizer {
     //collect the input
     static Collection<Integer> collect(String input) 
     {   
-      // Collection<Integer> set;
-       // Collection<Integer> nas = Collections.EMPTY_LIST;
-        
+    
         //empty collection
         if(input == ""){
             System.out.println("The collection is empty");
