@@ -26,5 +26,5 @@ Following situations are supported by the solution:
 
 
 # Test unit
-Junit jupiter Testing was used to verify the solution obtained using the two implemented functions: summarizeCollection() and collect(). 
+Junit jupiter Testing was used to verify the solution obtained using the two implemented functions: summarizeCollection() and collect(). File TestNumberRangeSummarizer.jar contains the tests
 
