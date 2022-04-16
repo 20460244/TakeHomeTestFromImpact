@@ -26,4 +26,5 @@ Following situations are supported by the solution:
 
 
 # Test unit
+Junit Testing was used to verify the solution obtained using the two implemented functions: summarizeCollection() and collect(). 
 
